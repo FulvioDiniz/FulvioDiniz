@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FulvioDiniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FulvioDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
@@ -22,6 +22,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FulvioDiniz&repo=Controle-de-impress-o-em-c&theme=radical)](https://github.com/FulvioDiniz/Controle-de-impress-o-em-c)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FulvioDiniz&repo=Programa-o-Funcional-2&theme=radical)](https://github.com/FulvioDiniz/Programa-o-Funcional-2 )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FulvioDiniz&repo=Bot_conexo_telegram&theme=radical )](https://github.com/FulvioDiniz/Bot_conexo_telegram )
+
+
+[![](https://visitcount.itsvg.in/api?id=FulvioDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
