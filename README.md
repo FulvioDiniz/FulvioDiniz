@@ -16,4 +16,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FulvioDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FulvioDiniz&repo=github-readme-stats)](https://github.com/FulvioDiniz/github-readme-stats)
+
+
